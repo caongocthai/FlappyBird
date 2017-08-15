@@ -5,7 +5,4 @@ I got inspired by a fellow Vietnamese, Nguyen Ha Dong, who created the famous Fl
 
 ## Demo
 
-
-* ### Register an account
-
 <img src="./Demo/demo.gif" width="400">
